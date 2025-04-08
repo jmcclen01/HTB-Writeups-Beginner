@@ -1,1 +1,6 @@
-#
+# Walkthrough Notes
+
+---
+
+## Initial Recon
+
